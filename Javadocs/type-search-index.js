@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"view","l":"adminInterface"},{"p":"application","l":"Album"},{"p":"view","l":"login"},{"p":"view","l":"nonAdminInterface"},{"p":"application","l":"Photo"},{"p":"application","l":"Photos"},{"p":"view","l":"photoViewInterface"},{"p":"view","l":"searchInterface"},{"p":"application","l":"User"}]
